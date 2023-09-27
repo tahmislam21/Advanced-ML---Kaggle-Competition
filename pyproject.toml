@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "mla-at1"
+version = "0.1.0"
+description = ""
+authors = ["tahmislam21 <tahmislam@gmail.com>"]
+readme = "README.md"
+packages = [{include = "mla_at1"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "2.0.1"
+jupyterlab = "3.6.3"
+scikit-learn = "1.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
