@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mla-at1"
-version = "0.1.0"
+version = "0.1.2"
 description = ""
 authors = ["tahmislam21 <tahmislam@gmail.com>"]
 readme = "README.md"
