@@ -1,6 +1,9 @@
 mla_at1
 ==============================
 
+To run the notebooks, please head to notebooks and run the .ipynb files.
+The models run best in Python 3.9.13
+
 Repo for AT1
 
 Project Organization
